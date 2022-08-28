@@ -10,3 +10,8 @@ Steps To run The project :-
 3. Open folder folder in jupyter notebook 
 4. Click kernel -> Restart and Run All 
 5. Project will be executed
+
+
+For more details refer this video :-
+
+https://youtu.be/tBDj_21L618
